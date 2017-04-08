@@ -1,0 +1,6 @@
+.idea/
+.gradle/
+build/
+AwsCredentials.properties
+config.properties
+all.log
